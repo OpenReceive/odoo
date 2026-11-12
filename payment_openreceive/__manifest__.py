@@ -1,6 +1,6 @@
 {
     "name": "Payment Provider: OpenReceive",
-    "version": "19.0.0.4.34",
+    "version": "19.0.0.4.35",
     "category": "Accounting/Payment Providers",
     "sequence": 350,
     "summary": "Bitcoin Lightning payments straight into your own wallet. "
