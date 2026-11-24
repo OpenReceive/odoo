@@ -1,18 +1,18 @@
 {
   "package": "@openreceive/elements",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "files": {
     "openreceive-checkout.css": {
-      "bytes": 220087,
-      "sha256": "8fcda230a9bb63156fcfed1f0be6d86099bb47efb3c59db48e6606c3ab97d302"
+      "bytes": 221036,
+      "sha256": "22f35ed559121c0a20bc56cff08e1c41118debdf14384ba4e3add655a085b352"
     },
     "openreceive-checkout.js": {
-      "bytes": 765676,
-      "sha256": "b9a2fd45fef29fab3c8df3a5199a1fd7f1b530a743d95c24b855412955f5acb0"
+      "bytes": 769852,
+      "sha256": "2b08eef94ca5f5ca8e1dec25fc033eba47d870c242837df1259a00d52036fa56"
     },
     "openreceive-checkout.js.map": {
-      "bytes": 1291952,
-      "sha256": "d959df2ff86a8f3a3c0df028bd0ddd0c7d7d18d0c34259dd734423bbfa9edbe8"
+      "bytes": 1305760,
+      "sha256": "3c64ef84e4ba5444d44c688863a4372a4e21d3f00b0a87d0d66b0e1bc82c57fb"
     }
   },
   "source": "https://github.com/openreceive/openreceive",
