@@ -1,6 +1,6 @@
 {
   "package": "@openreceive/elements",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "files": {
     "openreceive-checkout.css": {
       "bytes": 221036,
@@ -8,7 +8,7 @@
     },
     "openreceive-checkout.js": {
       "bytes": 769852,
-      "sha256": "6d319da01518290118dbfad4c8b29817cdd15652dd095c5b239c674a2ad5b486"
+      "sha256": "3a81813c4afbf0a32406b7e54814f1b78581b2531d2713cf6f85ad4a6db54a2b"
     },
     "openreceive-checkout.js.map": {
       "bytes": 1305760,
